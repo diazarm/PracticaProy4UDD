@@ -1,0 +1,27 @@
+.nav{
+    display: grid;
+    grid-template-columns: 0.5fr 1fr;
+    justify-content: center;
+    /* Centrar los elementos del Navbar */
+    font-size: 20px;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+    border: solid rgba(122, 120, 120, 0)2px;
+    border-radius: 80px;
+    height: 75px;
+    width: 50%;
+    background-color: #272529d4;
+}
+
+.logo {
+    background-image: url(proyecto4/public/img/logo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 70px;
+    height: 70px;
+    justify-self: right;
+  }
+
+
+

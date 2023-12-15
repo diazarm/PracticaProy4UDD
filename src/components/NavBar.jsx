@@ -13,7 +13,7 @@ export const NavBar = () => {
             <li><NavLink to="/">Inicio</NavLink></li>
             <li><NavLink to="/Menu">Menu</NavLink></li>
             <li><NavLink to="/Reserva">Reserva</NavLink></li>
-            <li><NavLink to="/Encuentranos">Encuentranos</NavLink></li>   
+            <li><NavLink to="/SobreNosotros">Encuentranos</NavLink></li>   
         </ul>
     </header>
   )

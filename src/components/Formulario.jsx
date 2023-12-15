@@ -56,3 +56,15 @@ export const Formulario = () => {
     </div>
   )
 }
+
+
+/* Quedamos aqui 
+Header
+Footer
+Sección Información del restaurante
+Sección de reserva formulario(con Firebase)
+*Uso de props
+*Uso de useState
+Manejar un repositorio en GitHub
+Desplegar en Netlify
+*/
